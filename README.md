@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Usersdot](https://www.usersdot.com/)
 
-- 🌱 I’m currently learning **Rust 🦀 , Web Security 🔐 **
+- 🌱 I’m currently learning Rust 🦀 , Web Security 🔐
 
 - 💬 Ask me about **React, Next.js, CSS**
 
